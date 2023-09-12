@@ -36,7 +36,7 @@ class Homepage extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            SizedBox(height: MediaQuery.of(context).size.height * 0.2,),
+            SizedBox(height: MediaQuery.of(context).size.height * 0.1,),
             CircleAvatar(
               radius: 70,
               backgroundColor: Colors.black,
